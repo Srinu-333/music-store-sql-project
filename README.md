@@ -25,7 +25,7 @@ business insights related to customers, revenue, genres, and artists.
 
 ## 📂 Files
 - `SQL_Music_Project.sql` – Complete SQL queries
-- `SQLPPT.pptx` – Project presentation
+- `SQL_Music_Store_Project_PPT.pptx` – Project presentation
 
 ## 🚀 Outcome
 Converted raw transactional data into actionable business insights.
